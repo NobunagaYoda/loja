@@ -10,3 +10,5 @@ func ConectaComBancoDeDados() *sql.DB {
 	}
 	return db
 }
+
+// funcao de conexao com o banco de dados
